@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @celaltrk
 - 👀 I'm a freshman CS student at Bilkent University.
-- 🌱 I’m currently studying computer science.
+- 🌱 I’m currently learning programming.
 - 📫 You can follow me on Instagram: @whrscell
