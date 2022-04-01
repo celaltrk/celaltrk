@@ -2,3 +2,4 @@
 - 👀 I'm a freshman CS student at Bilkent University.
 - 🌱 I’m currently learning programming.
 - 📫 You can follow me on Instagram: @whrscell
+- 🔗 Connect me on LinkedIn: @celaltrk
