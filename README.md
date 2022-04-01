@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @celaltrk
 - 👀 I'm a freshman CS student at Bilkent University.
 - 🌱 I’m currently learning programming.
-- 📫 You can follow me on Instagram: @whrscell
-- 🔗 Connect me on LinkedIn: @celaltrk
+- 📫 You can follow me on Instagram: instagram.com/whrscell
+- 🔗 Connect me on LinkedIn: https://www.linkedin.com/in/celal-turkmen-971b09218/
